@@ -1,0 +1,3 @@
+[submodule "Pianobar"]
+	path = Pianobar
+	url = https://github.com/halitalf/pianobar-windows-build.git
